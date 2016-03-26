@@ -1,0 +1,13 @@
+body{
+	background-image: url("../images/background-image.gif");
+	margin-top: 5px;
+}
+.charles{
+	/*margin-left: 0.2%;
+	margin-right: 80%;*/
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
